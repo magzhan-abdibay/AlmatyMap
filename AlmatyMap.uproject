@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1BBF4C06-2606-0B1A-001C-01DF09F90540}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AlmatyMap",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "StreetMap",
+			"Enabled": true
+		}
+	]
+}
