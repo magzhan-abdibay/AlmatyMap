@@ -41,7 +41,7 @@ Content/StarterContent/*
 Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
+Intermediate/
 #Unignore Visual Studio projects
 !Intermediate/ProjectFiles/
 
