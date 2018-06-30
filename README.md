@@ -13,5 +13,5 @@ https://wiki.unrealengine.com/
 * Open project with UE4Editor
 
 ## Tested on
- * Ubuntu x64; Intel(R) Core(TM) i5-4200H CPU @ 2.80GHz; Nvidia GeForce 860M 1.9 Gb: RAM 11.9GB
+ * Ubuntu x64; Intel(R) Core(TM) i5-4200H CPU @ 2.80GHz; Nvidia GeForce 860M 1.9 Gb; RAM 11.9GB
 
