@@ -3,7 +3,7 @@
 ## Structure
 * Content/AlmatyOpenStreetMaps_2018_06_28.osm - xml file from https://www.openstreetmap.org/export#map=16/43.2308/76.9524
 * Content/AlmatyOpenStreetMapsLevel.umap - UE4 map generated from .osm file
-* Plugins/StreetMap - UE4 plugin for parsing .osm files
+* Plugins/StreetMap - UE4 plugin for parsing .osm files https://github.com/ue4plugins/StreetMap/
 * Source/ - project specific UE4 classes 
 
 ## Building
