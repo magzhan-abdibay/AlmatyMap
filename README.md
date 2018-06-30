@@ -7,8 +7,7 @@
 * Source/ - project specific UE4 classes 
 
 ## Building
-* Download and Build UE4 
-https://wiki.unrealengine.com/
+* Download and Build UE4 https://unrealengine.com/
 * Clone project ```git clone git@github.com:magzhan-abdibay/AlmatyMap.git```
 * Open project with UE4Editor
 
